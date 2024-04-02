@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 
 🔧tech stack🔧<br>
 <img src="https://img.shields.io/badge/python-black?style=flat&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/html-black?style=flat&logo=html&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS-black?style=flat&logo=CSS3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/python-black?style=flat&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/python-black?style=flat&logo=python&logoColor=3776AB"/>
