@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 🔧tech stack🔧
-<img src="https://img.shields.io/badge/문자-#3776AB?style=for-the-badge&logo=python&logoColor=black">
+<img src="https://img.shields.io/badge/python-#3776AB?style=for-the-badge&logo=file:///C:/Users/dbwld/Downloads/python.svg&logoColor=black">
