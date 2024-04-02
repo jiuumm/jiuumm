@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 
 # 👑My Stats👑
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiuumm)](https://github.com/anuraghazra/github-readme-stats)<br>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiuumm)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiuumm)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 # 🔧Tech Stack 🔧
