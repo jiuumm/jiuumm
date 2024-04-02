@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 
 
 🔧tech stack🔧
-![Static Badge](https://img.shields.io/badge/python)
-
+<img src="https://img.shields.io/badge/Python-#2E2EFE?style=for-the-badge&logoColor=black">
