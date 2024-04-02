@@ -29,5 +29,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PyTorch-black?style=flat&logo=PyTorch&logoColor=EE4C2C"/>
 <img src="https://img.shields.io/badge/Android-black?style=flat&logo=Android&logoColor=34A853"/><br>
 <img src="https://img.shields.io/badge/ScikitLearn-white?style=flat&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/Unity-white?style=flat&logo=unity&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Unity-black?style=flat&logo=unity&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/C-white?style=flat&logo=C&logoColor=#A8B9CC"/>
+<br>
+
+![jiuumm's github stats](https://github-readme-stats.vercel.app/api?username=jiuumm&show_icons=true)
+<br>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiuumm&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
