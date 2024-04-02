@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Chab&fontSize=90)
-https://img.shields.io/badge/myBlog_https%3A%2F%2Fvelog.io%2F%40dbwldud630%2Fposts
+
 
 🔧tech stack🔧
-https://img.shields.io/badge/python
+![Static Badge](https://img.shields.io/badge/python)
 
