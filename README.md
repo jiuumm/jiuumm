@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 👑
 # My Stats
-<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiuumm)](https://github.com/anuraghazra/github-readme-stats)<br>
-🗨️<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiuumm)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 🔧
@@ -39,13 +38,11 @@ Here are some ideas to get you started:
 
 <br>
 # Hits
-<br>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiuumm&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 <br>
 🖥️
 # BoJ Tier
-<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwldud630)](https://solved.ac/dbwldud630/)
-<br>
+
 💚#Tech Blog
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@dbwldud630/posts/)](https://velog.io/@dbwldud630/posts/)
