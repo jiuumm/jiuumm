@@ -33,8 +33,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-white?style=flat&logo=C&logoColor=#A8B9CC"/>
 <br>
 
-![jiuumm's github stats](https://github-readme-stats.vercel.app/api?username=jiuumm&show_icons=true)
 <br>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiuumm&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+<br>
+🖥️
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwldud630)](https://solved.ac/백준아이디/)
+<br>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://velog.io/@dbwldud630/posts/)
+
 
