@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/pytorch-black?style=flat&logo=PyTorch&logoColor=EE4C2C"/>
 <img src="https://img.shields.io/badge/android-black?style=flat&logo=Android&logoColor=34A853"/>
+<img src="https://img.shields.io/badge/skitlearn-white?style=flat&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/unity-white?style=flat&logo=unity&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C-white?style=flat&logo=C&logoColor=#A8B9CC"/>
