@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 🗨️<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiuumm)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-🔧tech stack🔧
-<img src="https://img.shields.io/badge/python-green?style=flat&logo=Sass&logoColor=3776AB"/>
+🔧tech stack🔧<br>
+<img src="https://img.shields.io/badge/python-blue?style=flat&logo=Sass&logoColor=3776AB"/>
