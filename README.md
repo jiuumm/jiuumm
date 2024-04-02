@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=벨로그아이디)](https://velog.io/@dbwldud630/posts)
+👑
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiuumm)](https://github.com/anuraghazra/github-readme-stats)
+🗨️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiuumm)](https://github.com/anuraghazra/github-readme-stats)
 
 🔧tech stack🔧
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
