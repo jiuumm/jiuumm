@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiuumm)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 🔧tech stack🔧<br>
-<img src="https://img.shields.io/badge/python-black?style=flat&logo=Sass&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/python-black?style=flat&logo=python&logoColor=3776AB"/>
